@@ -1,1 +1,1 @@
-SQL Server存储过程同步Git代码库
+SQL Server存储过程同步Git代码库，便于记录存储过程变更情况
